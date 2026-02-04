@@ -1,4 +1,4 @@
-# Comau Project Governance Suite
+# Comau Project Governance Suite(Sprint)
 
 Sistema de gerenciamento de projetos corporativos com interface moderna inspirada no iOS + banco de dados na nuvem (Supabase).
 
